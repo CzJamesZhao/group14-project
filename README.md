@@ -1,2 +1,7 @@
-# group14-project
-this is a repository for EBU6305 group14
+# EBU6305
+##Group number:2020EBU6305G14
+##project title:XXXXXXX
+##Members:
+
+##Assgined TA:
+
